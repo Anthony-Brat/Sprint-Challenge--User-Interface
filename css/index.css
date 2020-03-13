@@ -144,3 +144,45 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+body{
+    padding: 5%;
+}
+.top{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+    margin-bottom: 20px;
+    
+
+}
+
+    .jumbo{
+        display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    
+    margin: 0px;}
+.box1{
+    color: teal;}
+
+.box2{
+    color: gold;
+} .box3{
+    color: cadetblue;
+} .box4{
+    color: coral;
+} .box5{
+    color: crimson;
+} .box6{
+    color: forestgreen;
+} .box7{
+    color: darkorchid;
+} .box8{
+    color: hotpink;
+} .box9{
+    color: indigo;
+} .box10{
+    color: dodgerblue;
+} 
