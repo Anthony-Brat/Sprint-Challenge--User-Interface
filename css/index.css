@@ -142,47 +142,38 @@ footer nav {
 
 footer nav a {
     color: white;
-    text-decoration: none;
-}
+    text-decoration: none;}
 
-body{
-    padding: 5%;
-}
-.top{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
-
-    margin-bottom: 20px;
+   
     
-
-}
-
-    .jumbo{
-        display: flex;
-    flex-wrap: wrap;
-    justify-content: flex-end;
     
-    margin: 0px;}
-Box 1 {
+#Box1 {
     background-color: teal;}
+   #Box2 {
+    background-color: gold;
+    } 
+    #Box3 {
+        background-color: cadetblue;
+    } 
+    #Box4 {
+        background-color: coral;
+    } 
+    #Box5 {
+        background-color: crimson;
+    } 
+    #Box6 {
+        background-color: forestgreen;
+    } 
+    #Box7 {
+        background-color: darkorchid;
+    } 
+    #Box8 {
+        background-color: hotpink;
+    } 
+    #Box9 {
+        background-color: indigo;
+    }
+    #Box10 {
+        background-color: dodgerblue;
+    } 
 
-Box 2 {
-    color: gold;
-} Box 3 {
-    color: cadetblue;
-} Box 4 {
-    color: coral;
-} box 5 {
-    color: crimson;
-} box 6 {
-    color: forestgreen;
-} box 7 {
-    color: darkorchid;
-} box 8 {
-    color: hotpink;
-} box 9 {
-    color: indigo;
-} box 10 {
-    color: dodgerblue;
-} 
