@@ -144,7 +144,31 @@ footer nav a {
     color: white;
     text-decoration: none;}
 
+ .top{
+     display: flex;
+     align-items: flex-end;
+     justify-content: center;
+     
+    }
+
+  
+.jumbo{
+   width: 100%;
+  padding: 1% 20% 1% 20%;
+
+
+}
+
+
    
+     
+     
+
+    
+     
+
+
+ 
     
     
 #Box1 {
