@@ -164,25 +164,25 @@ body{
     justify-content: flex-end;
     
     margin: 0px;}
-.box1{
-    color: teal;}
+Box 1 {
+    background-color: teal;}
 
-.box2{
+Box 2 {
     color: gold;
-} .box3{
+} Box 3 {
     color: cadetblue;
-} .box4{
+} Box 4 {
     color: coral;
-} .box5{
+} box 5 {
     color: crimson;
-} .box6{
+} box 6 {
     color: forestgreen;
-} .box7{
+} box 7 {
     color: darkorchid;
-} .box8{
+} box 8 {
     color: hotpink;
-} .box9{
+} box 9 {
     color: indigo;
-} .box10{
+} box 10 {
     color: dodgerblue;
 } 
